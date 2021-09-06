@@ -99,7 +99,7 @@ const BlogSection = ({ setCurrentSection }) => {
                 className="blog-new"
               >
                 <img alt="" src={img} /> <p>Blog</p>
-                <a href="" onClick={showBlog}>
+                <a  onClick={showBlog}>
                   Read More{" "}
                 </a>
               </div>
